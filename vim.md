@@ -14,3 +14,6 @@
 
 ## Modifiers
 * `i` : inside (example, `diw`: delete in(immediate) word)
+
+## vimtutor
+last lesson: 2.1
